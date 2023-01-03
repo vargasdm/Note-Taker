@@ -27,6 +27,12 @@ First, you will need to clone this repository to your local machine. The reposit
 
 This application can be used to write and save notes digitally in order to keep track of the users tasks. The user will be brought to a landing page where they can press the "Get Started" button. They will be taken to a new page where their olld notes will be displayed in the left hand column. When one of the users past notes are clicked, they note will be displayed in entirety in the right column. Here it can be edited and saved again. If the userwould like to create a new note, they can click the plus icon at the top left corner of the webpage and inthe right column will appear empty text areas for the note title and note text. WHen the user is done creating the note, they can press the save icon and the note will be saved and appear in the left column with the other past notes.
 
+![Screenshot](https://github.com/vargasdm/Note-Taker/blob/main/assets/images/note-taker.jpg)
+
+![Screenshot](https://github.com/vargasdm/Note-Taker/blob/main/assets/images/note-taker-old-note.jpg)
+
+![Screenshot](https://github.com/vargasdm/Note-Taker/blob/main/assets/images/note-taker-new-note.jpg)
+
 The application can be viewed here: https://safe-retreat-29683.herokuapp.com/.
 
 The GitHub Repository can be viewed here: https://github.com/vargasdm/Note-Taker.
